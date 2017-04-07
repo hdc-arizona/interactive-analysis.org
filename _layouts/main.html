@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body role="document">
+
+    <div class="container theme-showcase" role="main">
+      <div class="row">
+	<div class="col-md-1"></div>
+	<div class="col-md-10">
+	  <h1>The 1st Workshop on Data Systems for Interactive Analysis</h1>
+	</div>
+      </div>
+      <div class="row">
+        <div class="col-md-1"></div>
+	<div class="col-md-10">
+	  <div class="col-md-9">
+            {{ content }}
+	  </div>
+	  <div class="col-md-3 hidden-xs hidden-sm">
+	    {% include sidebar.html %}
+	  </div>
+	</div>
+        <div class="col-md-1"></div>
+    </div>
+
+    <!-- <div class="page-content"> -->
+    <!--   <div class="wrapper"> -->
+    <!--   </div> -->
+    <!-- </div> -->
+
+  </body>
+
+</html>
