@@ -13,42 +13,23 @@ held at [IEEE VIS 2017](http://ieeevis.org).
 
 <div style="padding-top:20px"></div>
 
-The goal of DSIA is to foster innovative research at the
-**intersection of databases, machine learning, and interactive
-visualization**.
-
-Database researchers have developed techniques for storing and
-querying massive amounts of data, including methods for distributed,
-streaming and approximate computation. Machine learning techniques
+DSIA brings together researchers at the intersection of databases,
+machine learning, and interactive visualization. These three areas
+have important things to say to each other. Modern data visualization
+depends on the cutting edge of both database and machine learning
+research: database researchers are exploring techniques for storing
+and querying massive amounts of data; machine learning techniques
 provide ways to discover unexpected patterns and to automate and scale
-well-defined analysis procedures. Recent systems research has looked
-at how to develop novel database systems architectures to support the
-iterative, optimization-oriented workloads of machine learning
-algorithms.
-
-Of course, both the inputs and outputs of these systems are ultimately
-driven by people, in support of analysis tasks. The life-cycle of data
-involves an iterative, interactive process of determining which
-questions to ask, the data to analyze, appropriate features and
-models, and interpreting results. In order to achieve better analysis
-outcomes, data processing systems require improved interfaces that
-account for the strengths and limitations of human perception and
-cognition. Meanwhile, to keep up with the rising tide of data,
-interactive visualization tools need to integrate more techniques from
-databases and machine learning.
-
-**In this workshop, we will explore the idea that the next generation of
-database, machine learning, and interactive visualization systems
-should not be designed in isolation**. For example, machine learning
-techniques might recommend improved data transformation and visual
-encoding decisions. Or, database query optimizers might take advantage
-of perceptual constraints, while prefetching methods reduce latency by
-modeling likely interactions.
-
-This workshop seeks to jump start cross-pollination between these
-fields. The program will be split between invited talks from
-researchers in these communities, and speculative, ongoing work that
-straddles the areas. 
+well-defined analysis procedures.
+ 
+This workshop explores the idea that the next generation of database,
+machine learning, and interactive visualization systems should not be
+designed in isolation. For example, machine learning techniques might
+recommend improved data transformation and visual encoding
+decisions. Or, database query optimizers might take advantage of
+perceptual constraints, while prefetching methods reduce latency by
+modeling likely interactions. This workshop seeks to jump start
+cross-pollination between these fields.
 
 ## Topics
 
