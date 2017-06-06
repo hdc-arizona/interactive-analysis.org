@@ -76,9 +76,9 @@ We are interested, more generally, in the questions that arise at the
 
 ## Important Dates
 
-* Submission Deadline: TBD
-* Notifications: TBD
-* Final versions due: TBD
+* Submission Deadline: July 31st, 2017
+* Notifications: August 15th, 2017
+* Final versions due: August 25th, 2017
 * Event: TBD
 
 ## Paper format and submission
@@ -88,11 +88,14 @@ Submissions should follow IEEE TVCG guidelines, which can be found
 Submissions should not exceed five total pages, the last page of which
 should contain only references.
 
-<!-- ## Submission -->
-<!-- Papers should be submitted via email to: -->
-<!-- [workshop@interactive-analysis.org](mailto:workshop@interactive-analysis.org). Please contact the workshop -->
-<!-- organizers at [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org) for any -->
-<!-- questions regarding the submission process or the workshop itself. -->
+## Submission
+
+Papers should be submitted through the
+[Precision Conference System](http://precisionconference.com/~vgtc)
+(under "New Submissions" and "VIS Workshops 2017").
+Please contact the workshop organizers at
+[organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
+for any questions regarding the submission process or the workshop itself.
 
 ## Registration 
 
