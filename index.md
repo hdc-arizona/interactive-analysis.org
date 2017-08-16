@@ -5,17 +5,34 @@ title: "DSIA: Data Systems for Interactive Analysis"
 
 This is the website for the Workshop on Data Systems for
 Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held at
-[IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome),
-with Joe Hellerstein as the keynote speaker and more than 150 attendees. 
-
+[IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome). 
 We are thrilled to announce a second edition of the workshop, to be
 held at [IEEE VIS 2017](http://ieeevis.org).
 
-<div style="padding-top:20px"></div>
+## Accepted papers
 
-The goal of DSIA is to foster innovative research at the
-**intersection of databases, machine learning, and interactive
-visualization**.
+We are excited to announce the list of accepted DSIA 2017 submissions:
+
+* **A Progressive K-D Tree for Approximate K-Nearest Neighbors**  
+  Jaemin Jo, Jinwook Seo, Jean-Daniel Fekete
+* **Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time**  
+  Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
+* **Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions**  
+  Marco Cavallo, Cagatay Demiralp
+* **Foresight:Rapid Data Exploration Through Guideposts**  
+  Cagatay Demiralp, Peter Haas, Srinivasan Parthasarathy, Tejaswini Pedapati
+* **High-Dimensional Scientific Data Exploration via Cinema**  
+  Jonathan Woodring, James Ahrens, John Patchett, Cameron Tauxe, David Rogers
+* **Coupling Visualization, Simulation, and Deep Learning for Ensemble Steering of Complex Energy Models**  
+  Brian Bush, Nicholas Brunhart-Lupo, Bruce Bugbee, Venkat Krishnan, Kristin Potter, Kenny Gruchalla
+* **MapMatch: Map-Based Collaboration and Expert-Matching System**  
+  Guizhen Wang, Abish Malik, Chittayong Surakitbanharn, Jose lorencio de Queiroz Neto, Shehzad Afzal, siqiao chen, David Wiszowaty, David Ebert
+* **Position Statement: The Case for a Visualization Performance Benchmark**  
+  Leilani Battle, Remco Chang, Jeffrey Heer, Michael Stonebraker
+* **A Game-theoretic Approach to Data Interaction**  
+  Ben McCamish, Arash Termehchy, Behrouz Touri
+
+## The DSIA Vision
 
 Database researchers have developed techniques for storing and
 querying massive amounts of data, including methods for distributed,
@@ -50,6 +67,10 @@ fields. The program will be split between invited talks from
 researchers in these communities, and speculative, ongoing work that
 straddles the areas. 
 
+The goal of DSIA is to foster innovative research at the
+**intersection of databases, machine learning, and interactive
+visualization**.
+
 ## Topics
 
 This workshop will focus on interactive systems: techniques,
@@ -79,7 +100,7 @@ We are interested, more generally, in the questions that arise at the
 * Submission Deadline: July 31st, 2017
 * Notifications: August 15th, 2017
 * Final versions due: August 25th, 2017
-* Event: TBD
+* Event: October 2nd, 2017
 
 ## Paper format and submission
 
