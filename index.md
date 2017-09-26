@@ -36,7 +36,7 @@ held at [IEEE VIS 2017](http://ieeevis.org).
     Ben McCamish, Arash Termehchy, Behrouz Touri
 * 12:00-12:10 Closing Statement
 
-# Keynote
+# <a name="keynote"></a>Keynote
 
 <div style="float: right; padding:10px"><img src="img/kraska-2017.jpg"></img></div>  
 **Interactive Data Science**  
