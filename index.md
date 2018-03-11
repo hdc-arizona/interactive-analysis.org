@@ -18,12 +18,12 @@ held at [IEEE VIS 2017](http://ieeevis.org).
     Jaemin Jo, Jinwook Seo, Jean-Daniel Fekete
   * **Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time**  
     Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
-  * **Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions**  
-    Marco Cavallo, Cagatay Demiralp
+  * **Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions**  
+    Marco Cavallo, Çağatay Demiralp
 * 10:10-10:30 Break
 * 10:30-12:00 Papers Session 2  
   * **Foresight:Rapid Data Exploration Through Guideposts**  
-    Cagatay Demiralp, Peter Haas, Srinivasan Parthasarathy, Tejaswini Pedapati
+    Çağatay Demiralp, Peter Haas, Srinivasan Parthasarathy, Tejaswini Pedapati
   * **High-Dimensional Scientific Data Exploration via Cinema**  
     Jonathan Woodring, James Ahrens, John Patchett, Cameron Tauxe, David Rogers
   * **Coupling Visualization, Simulation, and Deep Learning for Ensemble Steering of Complex Energy Models**  
