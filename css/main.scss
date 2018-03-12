@@ -24,6 +24,9 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.no-padding {
+    padding: 0;
+}
 
 
 // Using media queries with like this:
