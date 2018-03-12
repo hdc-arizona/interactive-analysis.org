@@ -1,54 +1,22 @@
 ---
-layout: main-2017
+layout: main-2018
 title: "DSIA: Data Systems for Interactive Analysis"
 ---
 
 This is the website for the Workshop on Data Systems for
 Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held at
-[IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome). 
-We are thrilled to announce a second edition of the workshop, to be
-held at [IEEE VIS 2017](http://ieeevis.org).
+[IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome) and the [second edition of DSIA](/year/2017/) was held at
+[IEEE VIS 2017](http://ieeevis.org/year/2017/welcome). 
+We are thrilled to announce a third edition of the workshop, to be
+held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 
-# 2017 Program
+# 2018 Program
 
-* 8:30-8:35 Opening Statement
-* 8:35-9:25 [Keynote](#keynote): Interactive Data Science, Tim Kraska, Brown University
-* 9:25-10:10 Papers Session 1  
-  * **A Progressive K-D Tree for Approximate K-Nearest Neighbors**  
-    Jaemin Jo, Jinwook Seo, Jean-Daniel Fekete
-  * **Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time**  
-    Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
-  * **Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions**  
-    Marco Cavallo, Çağatay Demiralp
-* 10:10-10:30 Break
-* 10:30-12:00 Papers Session 2  
-  * **Foresight:Rapid Data Exploration Through Guideposts**  
-    Çağatay Demiralp, Peter Haas, Srinivasan Parthasarathy, Tejaswini Pedapati
-  * **High-Dimensional Scientific Data Exploration via Cinema**  
-    Jonathan Woodring, James Ahrens, John Patchett, Cameron Tauxe, David Rogers
-  * **Coupling Visualization, Simulation, and Deep Learning for Ensemble Steering of Complex Energy Models**  
-    Brian Bush, Nicholas Brunhart-Lupo, Bruce Bugbee, Venkat Krishnan, Kristin Potter, Kenny Gruchalla
-  * **A Client-based Visual Analytics Framework for Large Spatiotemporal Data under Architectural Constraints**  
-    Guizhen Wang, Abish Malik, Chittayong Surakitbanharn, Jose lorencio de Queiroz Neto, Shehzad Afzal, siqiao chen, David Wiszowaty, David Ebert
-  * **Position Statement: The Case for a Visualization Performance Benchmark**  
-    Leilani Battle, Remco Chang, Jeffrey Heer, Michael Stonebraker
-  * **A Game-theoretic Approach to Data Interaction**  
-    Ben McCamish, Arash Termehchy, Behrouz Touri
-* 12:00-12:10 Closing Statement
+TBA
 
 # <a name="keynote"></a>Keynote
 
-<div style="float: right; padding:10px"><img src="img/kraska-2017.jpg"></img></div>  
-**Interactive Data Science**  
-Tim Kraska  
-Brown University
-
-Unleashing the full potential of Big Data requires a paradigm shift in the algorithms and tools used to analyze data towards more interactive systems with highly collaborative and visual interfaces. Ideally, a data scientist and a domain expert should be able to make discoveries together by directly manipulating, analyzing and visualizing data on the spot, instead of having week-long forth-and-back interactions between them. Current systems, such as traditional databases or more recent analytical frameworks like Hadoop or Spark, are ill-suited for this purpose. They were not designed to be interactive nor to support the special requirements of visual data exploration. Similarly, most machine learning algorithms are not able to provide initial answers at "human speed" (i.e., sub-seconds), nor are existing methods sufficient to convey the impact of the various risk factors, such as multi hypothesis problem. 
- 
-In this talk, I will present our vision of a new approach for conducting interactive exploratory analytics and explain why integrating the aforementioned features requires a complete rethinking of the full analytics stack, from the interface to the "guts". I will present recent results towards this vision including our novel interface, analytical engine and automatic error detection, and outline what challenges are still ahead of us.
-
-Bio: Tim Kraska is an Assistant Professor in the Computer Science department at Brown University. Currently, his research focuses building systems for interactive data exploration and transactional systems for modern hardware, especially the next generation of networks. Before joining Brown, Tim spent 3 years as a PostDoc in the AMPLab at UC Berkeley, where he worked on hybrid human-machine database systems and cloud-scale data management systems. Tim received his PhD from the ETH Zurich under the supervision of Donald Kossmann. He was awarded a NSF Career Award (2015), an Airforce Young Investigator award (2015), a Swiss National Science Foundation Prospective Researcher Fellowship (2010), a DAAD Scholarship (2006), a University of Sydney Master of Information Technology Scholarship for outstanding achievement (2005), the University of Sydney Siemens Prize (2005), two VLDB best demo awards (2015 and 2011), and an ICDE best paper award (2013), and recently got selected as a 2017 Alfred P. Sloan Research Fellow in Computer Science.  
-<div style="clear:both"></div>
+TBA
 
 ## The DSIA Vision
 
@@ -115,10 +83,10 @@ We are interested, more generally, in the questions that arise at the
 
 ## Important Dates
 
-* Submission Deadline: July 31st, 2017
-* Notifications: August 15th, 2017
-* Final versions due: August 25th, 2017
-* Event: October 2nd, 2017
+* Submission Deadline: TBA
+* Notifications: TBA
+* Final versions due: TBA 
+* Event: TBA
 
 ## Paper format and submission
 
@@ -131,18 +99,18 @@ should contain only references.
 
 Papers should be submitted through the
 [Precision Conference System](http://precisionconference.com/~vgtc)
-(under "New Submissions" and "VIS Workshops 2017").
+(under "New Submissions" and "VIS Workshops 2018").
 Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
 for any questions regarding the submission process or the workshop itself.
 
 ## Registration 
 
-At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2017](http://ieeevis.org/).
+At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2018](http://ieeevis.org/).
 
 ## Organizers
 
-* [Remco Chang](http://www.cs.tufts.edu/~remco/), Chair, Tufts Univiersity.
-* [Carlos Scheidegger](http://cscheid.net), Chair, University of Arizona.
-* [Danyel Fisher](http://research.microsoft.com/en-us/people/danyelf/), Chair, Microsoft Research.
-* [Jeffrey Heer](http://jheer.org), Chair, University of Washington.
+* [Dominik Moritz](https://homes.cs.washington.edu/~domoritz/), Chair, University of Washington.
+* [Joseph Cottam](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9106), Chair, Pacific Northwest National Laboratory.
+* [Leilani Battle](http://cs.umd.edu/~leilani/), Chair, University of Washington/ University of Maryland.
+* [Marianne Procopio](https://www.eecs.tufts.edu/~procopio/), Chair, Tufts University.
