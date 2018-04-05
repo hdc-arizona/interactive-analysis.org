@@ -83,9 +83,9 @@ We are interested, more generally, in the questions that arise at the
 
 ## Important Dates
 
-* Submission Deadline: TBA
-* Notifications: TBA
-* Final versions due: TBA 
+* Submission Deadline: July 17, 2018
+* Notifications: August 7, 2018
+* Final versions due: August 17, 2018 
 * Event: TBA
 
 ## Paper format and submission
