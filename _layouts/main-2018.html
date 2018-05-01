@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body role="document">
+<body role="document">
 
-    <div class="container theme-showcase" role="main">
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
-          <h1>{{ page.title }}</h1>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10 no-padding">
-          <div class="col-md-9">
-                  {{ content }}
-          </div>
-          <div class="col-md-3 hidden-xs hidden-sm">
-            {% include sidebar-2018.html %}
-          </div>
-        </div>
-        <div class="col-md-1"></div>
+  <div class="container theme-showcase" role="main">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <h1>
+          <a href="{{site.url}}" title="Back to Homepage">{{ page.title }}</a>
+        </h1>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10 no-padding">
+        <div class="col-md-9">
+          {{ content }}
+        </div>
+        <div class="col-md-3 hidden-xs hidden-sm">
+          {% include sidebar-2018.html %}
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    <!-- <div class="page-content"> -->
-    <!--   <div class="wrapper"> -->
-    <!--   </div> -->
-    <!-- </div> -->
+  <!-- <div class="page-content"> -->
+  <!--   <div class="wrapper"> -->
+  <!--   </div> -->
+  <!-- </div> -->
 
-  </body>
+</body>
 
 </html>
