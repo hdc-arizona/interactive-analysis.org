@@ -54,14 +54,14 @@ straddles the areas.
   * Manasi Vartak, Silu Huang, Tarique Siddiqui, Samuel Madden, Aditya
     Parameswaran. **Towards Visualization Recommendation Systems**
   * Dominik Moritz, Jeffrey Heer, and Bill Howe. [Dynamic Client-Server
-    Optimization for Scalable Interactive Visualization on the Web](papers/2015/moritz.pdf) ([bibtex](bib/moritz2015dynamic.bib))
+    Optimization for Scalable Interactive Visualization on the Web]({{ site.baseurl }}/papers/2015/moritz.pdf) ([bibtex]({{ site.baseurl }}/bib/moritz2015dynamic.bib))
   * Jean-Daniel Fekete. [ProgressiVis: a Toolkit for Steerable
-    Progressive Analytics and Visualization](papers/2015/fekete.pdf) ([bibtex](bib/fekete2015progressivis.bib))
+    Progressive Analytics and Visualization]({{ site.baseurl }}/papers/2015/fekete.pdf) ([bibtex]({{ site.baseurl }}/bib/fekete2015progressivis.bib))
   * Leilani Battle, Mike Stonebraker, Remco Chang. **Front-End Aware
     Optimizations for Scalable Visual Exploration Systems**
   * Eugene Wu and Arnab Nandi. [Towards Perception-aware Interactive Data
-    Visualization Systems](papers/2015/wu.pdf) ([bibtex](bib/wu2015towards.bib))
-  * Alper Sarikaya and Michael Gleicher. [Using WebGL as an Interactive Visualization Medium: Our Experience Developing SplatterJs](papers/2015/sarikaya.pdf) ([bibtex](bib/sarikaya2015webgl.bib))
+    Visualization Systems]({{ site.baseurl }}/papers/2015/wu.pdf) ([bibtex]({{ site.baseurl }}/bib/wu2015towards.bib))
+  * Alper Sarikaya and Michael Gleicher. [Using WebGL as an Interactive Visualization Medium: Our Experience Developing SplatterJs]({{ site.baseurl }}/papers/2015/sarikaya.pdf) ([bibtex]({{ site.baseurl }}/bib/sarikaya2015webgl.bib))
 * 4:15-4:55: Papers session 2
   * Cicero Pahins, Joao Comba. **HashedCubes: A Data Structure for
     Real-Time Exploration of Large Multidimensional Datasets**
@@ -72,10 +72,10 @@ straddles the areas.
     Richards-McClung, John McLennan, Randy Polson, Raymond Levey, Terry
     Ring, Elizabeth Jurrus, and Greg M. Jones. [Klareco: An
     Indexing-based Architecture for Interactive Visualization of
-    Heterogeneous Data Sources](papers/2015/rosen.pdf) ([bibtex](bib/rosen2015klareco.bib))
+    Heterogeneous Data Sources]({{ site.baseurl }}/papers/2015/rosen.pdf) ([bibtex]({{ site.baseurl }}/bib/rosen2015klareco.bib))
   * Adam Dziedzic, Jennie Duggan, Aaron J. Elmore, Vijay Gadepally, and
     Michael Stonebraker. [BigDAWG: a Polystore for Diverse Interactive
-    Applications](papers/2015/dziedzic.pdf) ([bibtex](bib/dziedzic2015bigdawg.bib))
+    Applications]({{ site.baseurl }}/papers/2015/dziedzic.pdf) ([bibtex]({{ site.baseurl }}/bib/dziedzic2015bigdawg.bib))
 * 4:55-5:50: Discussion
 * 5:50-6:00: Closing
 
@@ -124,7 +124,7 @@ Intel Research, Berkeley.
   Michael Stonebraker. **BigDAWG: a Polystore for Diverse Interactive
   Applications**
 * Jean-Daniel Fekete. [ProgressiVis: a Toolkit for Steerable
-  Progressive Analytics and Visualization](papers/2015/fekete.pdf)
+  Progressive Analytics and Visualization]({{ site.baseurl }}/papers/2015/fekete.pdf)
 * Fabio Miranda, Lauro Lins, James T. Klosowski, and Claudio
   Silva. **TopKube: A Rank-Aware Data Cube for Real-Time Exploration of
   Spatiotemporal Datasets**
@@ -136,8 +136,8 @@ Intel Research, Berkeley.
   Richards-McClung, John McLennan, Randy Polson, Raymond Levey, Terry
   Ring, Elizabeth Jurrus, and Greg M. Jones. [Klareco: An
   Indexing-based Architecture for Interactive Visualization of
-  Heterogeneous Data Sources](papers/2015/rosen.pdf)
-* Alper Sarikaya and Michael Gleicher. [Using WebGL as an Interactive Visualization Medium: Our Experience Developing SplatterJs](papers/2015/sarikaya.pdf)
+  Heterogeneous Data Sources]({{ site.baseurl }}/papers/2015/rosen.pdf)
+* Alper Sarikaya and Michael Gleicher. [Using WebGL as an Interactive Visualization Medium: Our Experience Developing SplatterJs]({{ site.baseurl }}/papers/2015/sarikaya.pdf)
 * Manasi Vartak, Silu Huang, Tarique Siddiqui, Samuel Madden, Aditya
   Parameswaran. **Towards Visualization Recommendation Systems**
 * Eugene Wu and Arnab Nandi. **Towards Perception-aware Interactive Data
