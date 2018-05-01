@@ -88,14 +88,11 @@ We are interested, more generally, in the questions that arise at the
 * Final versions due: August 17, 2018 
 * Event: October 21 or 22, 2018
 
-## Paper format and submission
+## Paper Format and Submission
 
 Submissions should follow IEEE TVCG guidelines, which can be found
 [here](http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html). 
-Submissions should not exceed five total pages, the last page of which
-should contain only references.
-
-## Submission
+Submissions should not exceed 4 to 6 pages, excluding references.
 
 Papers should be submitted through the
 [Precision Conference System](http://precisionconference.com/~vgtc)
@@ -103,6 +100,11 @@ Papers should be submitted through the
 Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
 for any questions regarding the submission process or the workshop itself.
+
+Accepted papers will be presented at the workshop and authors can
+choose to include their papers in the IEEE archive. In addition to
+their presentation, authors have the option to give a demo of their
+systems or tools.
 
 ## Registration 
 
