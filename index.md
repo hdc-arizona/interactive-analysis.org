@@ -95,7 +95,7 @@ Submissions should follow IEEE TVCG guidelines, which can be found
 Submissions should not exceed 4 to 6 pages, excluding references.
 
 Papers should be submitted through the
-[Precision Conference System](http://precisionconference.com/~vgtc)
+[Precision Conference System](https://new.precisionconference.com/)
 (under "New Submissions" and "VIS Workshops 2018").
 Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
