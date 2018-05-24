@@ -116,3 +116,11 @@ At least one author from an accepted paper will be required to attend the worksh
 * [Joseph Cottam](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9106), Chair, Pacific Northwest National Laboratory.
 * [Leilani Battle](http://cs.umd.edu/~leilani/), Chair, University of Washington/ University of Maryland.
 * [Marianne Procopio](https://www.eecs.tufts.edu/~procopio/), Chair, Tufts University.
+
+## Steering Committee
+
+* [Remco Chang](http://www.cs.tufts.edu/~remco/), Tufts.
+* [Carlos Scheidegger](https://cscheid.net/), University of Arizona.
+* [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/), UW.
+* [Danyel Fisher](https://www.microsoft.com/en-us/research/people/danyelf/), Honeycomb (previously Microsoft Research).
+* [Aditya Parameswaran](http://data-people.cs.illinois.edu/), UIUC.
