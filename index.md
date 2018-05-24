@@ -91,7 +91,7 @@ We are interested, more generally, in the questions that arise at the
 ## Paper Format and Submission
 
 Submissions should follow IEEE TVCG guidelines, which can be found
-[here](http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html). 
+[here](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
 Submissions should not exceed 4 to 6 pages, excluding references.
 
 Papers should be submitted through the
