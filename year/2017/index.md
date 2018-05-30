@@ -16,13 +16,13 @@ held at [IEEE VIS 2017](http://ieeevis.org).
 * 9:25-10:10 Papers Session 1  
   * **[A Progressive K-D Tree for Approximate K-Nearest Neighbors]({{ site.baseurl }}/papers/2017/jo-progressivekd-2017.pdf)**  
     Jaemin Jo, Jinwook Seo, Jean-Daniel Fekete
-    ([bibtex]({{ site.baseurl }}/bib/2017/jo-progressivekd-2017.bib))
+    ([bibtex]({{ site.baseurl }}/bib/2017/Jo-ProgressiveKD-2017.bib))
   * **Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time**  
     Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
     ([bibtex]({{ site.baseurl }}/bib/2017/Procopio-LoadnGo-2017.bib))
   * **[Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions]({{ site.baseurl }}/papers/2017/Cavallo-Xplorer-2017.pdf)**  
     Marco Cavallo, Çağatay Demiralp
-    ([bibtex]({{ site.baseurl }}/bib/2017/Cavallo-Xplorer-2017.bib); [supplement](({{ site.baseurl }}/papers/2017/Cavallo-Xplorer-2017-supplement))
+    ([bibtex]({{ site.baseurl }}/bib/2017/Cavallo-Xplorer-2017.bib); [supplement]({{ site.baseurl }}/papers/2017/Cavallo-Xplorer-2017-supplement))
 * 10:10-10:30 Break
 * 10:30-12:00 Papers Session 2  
   * **Foresight:Rapid Data Exploration Through Guideposts**  
