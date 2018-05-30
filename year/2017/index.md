@@ -14,26 +14,35 @@ held at [IEEE VIS 2017](http://ieeevis.org).
 * 8:30-8:35 Opening Statement
 * 8:35-9:25 [Keynote](#keynote): Interactive Data Science, Tim Kraska, Brown University
 * 9:25-10:10 Papers Session 1  
-  * **A Progressive K-D Tree for Approximate K-Nearest Neighbors**  
+  * **[A Progressive K-D Tree for Approximate K-Nearest Neighbors]({{ site.baseurl }}/papers/2017/Jo-ProgressiveKD-2017.pdf)**  
     Jaemin Jo, Jinwook Seo, Jean-Daniel Fekete
+    ([bibtex]({{ site.baseurl }}/bib/2017/Jo-ProgressiveKD-2017.bib))
   * **Load-n-Go: Fast Approximate Join Visualizations That Improve Over Time**  
     Marianne Procopio, Carlos Scheidegger, Eugene Wu, Remco Chang
-  * **Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions**  
+    ([bibtex]({{ site.baseurl }}/bib/2017/Procopio-LoadnGo-2017.bib))
+  * **[Track Xplorer: A System for Visual Analysis of Sensor-based Motor Activity Predictions]({{ site.baseurl }}/papers/2017/Cavallo-Xplorer-2017.pdf)**  
     Marco Cavallo, Çağatay Demiralp
+    ([bibtex]({{ site.baseurl }}/bib/2017/Cavallo-Xplorer-2017.bib); [supplement]({{ site.baseurl }}/papers/2017/Cavallo-Xplorer-2017-supplement.pdf))
 * 10:10-10:30 Break
 * 10:30-12:00 Papers Session 2  
   * **Foresight:Rapid Data Exploration Through Guideposts**  
     Çağatay Demiralp, Peter Haas, Srinivasan Parthasarathy, Tejaswini Pedapati
-  * **High-Dimensional Scientific Data Exploration via Cinema**  
+    ([bibtex]({{ site.baseurl }}/bib/2017/Cagatay-Foresight-2017.bib))
+  * **[High-Dimensional Scientific Data Exploration via Cinema]({{ site.baseurl }}/papers/2017/Woodring-Cinema-2017.pdf)**  
     Jonathan Woodring, James Ahrens, John Patchett, Cameron Tauxe, David Rogers
-  * **Coupling Visualization, Simulation, and Deep Learning for Ensemble Steering of Complex Energy Models**  
+    ([bibtex]({{ site.baseurl }}/bib/2017/Woodring-Cinema-2017.bib))
+  * **[Coupling Visualization, Simulation, and Deep Learning for Ensemble Steering of Complex Energy Models]({{ site.baseurl }}/papers/2017/Bush-EnsembleSteering-2017.pdf)**  
     Brian Bush, Nicholas Brunhart-Lupo, Bruce Bugbee, Venkat Krishnan, Kristin Potter, Kenny Gruchalla
-  * **A Client-based Visual Analytics Framework for Large Spatiotemporal Data under Architectural Constraints**  
-    Guizhen Wang, Abish Malik, Chittayong Surakitbanharn, Jose lorencio de Queiroz Neto, Shehzad Afzal, siqiao chen, David Wiszowaty, David Ebert
-  * **Position Statement: The Case for a Visualization Performance Benchmark**  
+    ([bibtex]({{ site.baseurl }}/bib/2017/Bush-EnsembleSteering-2017.bib))
+  * **[A Client-based Visual Analytics Framework for Large Spatiotemporal Data under Architectural Constraints]({{ site.baseurl }}/papers/2017/Wang-Spatiotemporal-2017.pdf)**  
+    Guizhen Wang, Abish Malik, Chittayong Surakitbanharn, Jose lorencio de Queiroz Neto, Shehzad Afzal, Siqiao Chen, David Wiszowaty, David Ebert
+    ([bibtex]({{ site.baseurl }}/bib/2017/Wang-Spatiotemporal-2017.bib))
+  * **[Position Statement: The Case for a Visualization Performance Benchmark]({{ site.baseurl }}/papers/2017/Battle-Benchmark-2017.pdf)**  
     Leilani Battle, Remco Chang, Jeffrey Heer, Michael Stonebraker
+    ([bibtex]({{ site.baseurl }}/bib/2017/Battle-Benchmark-2017.bib))
   * **A Game-theoretic Approach to Data Interaction**  
     Ben McCamish, Arash Termehchy, Behrouz Touri
+    ([bibtex]({{ site.baseurl }}/bib/2017/McCamish-GameTheoretic-2017.bib))
 * 12:00-12:10 Closing Statement
 
 # <a name="keynote"></a>Keynote

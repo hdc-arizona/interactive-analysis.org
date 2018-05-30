@@ -9,4 +9,4 @@ url: "http://www.interactive-analysis.org" # the base hostname & protocol for yo
 # Build settings
 markdown: redcarpet
 redcarpet:
-  extensions: ["strikethrough"]  
+  extensions: ["strikethrough"]
