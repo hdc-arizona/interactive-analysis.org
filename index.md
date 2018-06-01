@@ -10,13 +10,6 @@ Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held a
 We are thrilled to announce a third edition of the workshop, to be
 held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 
-# 2018 Program
-
-TBA
-
-# <a name="keynote"></a>Keynote
-
-TBA
 
 ## The DSIA Vision
 
@@ -109,6 +102,14 @@ systems or tools.
 ## Registration 
 
 At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2018](http://ieeevis.org/).
+
+# 2018 Program
+
+TBA
+
+# <a name="keynote"></a>Keynote
+
+TBA
 
 ## Organizers
 
