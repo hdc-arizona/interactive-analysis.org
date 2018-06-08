@@ -14,9 +14,10 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 
 TBA -->
 
+{:#keynote}
 ## Invited Speaker: Azza Abouzied
 
-<div style="float: right; padding:10px"><img src="/img/azza.jpg"></img></div>
+<img src="/img/azza.jpg" style="float: right; padding:10px">
 
 We are very excited to announce that [Azza Abouzied](http://azza.azurewebsites.net/) from NYU Abu Dhabi will be the keynote speaker for the workshop.
 

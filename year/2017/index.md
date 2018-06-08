@@ -45,9 +45,10 @@ held at [IEEE VIS 2017](http://ieeevis.org).
     ([bibtex]({{ site.baseurl }}/bib/2017/McCamish-GameTheoretic-2017.bib))
 * 12:00-12:10 Closing Statement
 
-# <a name="keynote"></a>Keynote
+{:#keynote}
+### Keynote
 
-<div style="float: right; padding:10px"><img src="/img/kraska-2017.jpg"></img></div>  
+<img src="/img/kraska-2017.jpg" style="float: right; padding:10px">
 **Interactive Data Science**  
 Tim Kraska  
 Brown University
