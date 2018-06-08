@@ -16,7 +16,13 @@ TBA -->
 
 ## Invited Speaker: Azza Abouzied
 
+<div style="float: right; padding:10px"><img src="/img/azza.jpg"></img></div>
+
 We are very excited to announce that [Azza Abouzied](http://azza.azurewebsites.net/) from NYU Abu Dhabi will be the keynote speaker for the workshop.
+
+**Bio:** Azza Abouzied is an Assistant Professor of Computer Science at New York University, Abu Dhabi. Azza’s research work focuses on designing novel and intuitive data analytics tools and on supporting complex analytics natively within databases, such as specifying and solving objective optimization problems. Her work combines techniques from various fields such as UI-design, active learning and databases. She received her doctoral degree from Yale in 2013 and BSc (CS) from Dalhousie. She spent a year as a visiting scholar at UC Berkeley. She is the recipient of an NSERC Canada Graduate Scholarships-Doctoral Fellowship, and multiple research paper awards including a SIGMOD Research Highlight Award, a best of VLDB citation and a best CHI paper award. She is also one of the co-founders of Hadapt – a Big Data analytics platform.
+
+<div style="clear:both"></div>
 
 ## The DSIA Vision
 
