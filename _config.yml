@@ -4,6 +4,6 @@ email: dsia.workshop@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Workshop on Data Systems for Interactive Analysis.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.interactive-analysis.org" # the base hostname & protocol for your site
+url: "https://www.interactive-analysis.org" # the base hostname & protocol for your site
 
 markdown: kramdown
