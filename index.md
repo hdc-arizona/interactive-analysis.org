@@ -121,6 +121,10 @@ systems or tools.
 
 At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2018](http://ieeevis.org/).
 
+## Code of Conduct
+
+DSIA is committed to providing an inclusive and harassment-free environment. Please see the [IEEE VIS Code of Conduct](http://ieeevis.org/year/2018/info/inclusion-and-diversity/code-of-conduct) for details.
+
 ## Organizers
 
 * [Dominik Moritz](https://homes.cs.washington.edu/~domoritz/), Chair, University of Washington.
