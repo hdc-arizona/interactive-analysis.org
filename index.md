@@ -94,9 +94,9 @@ We are interested, more generally, in the questions that arise at the
 
 ## Important Dates
 
-* Submission Deadline: July 17, 2018
-* Notifications: August 7, 2018
-* Final versions due: August 17, 2018 
+* Submission Deadline: ~~July 17, 2018~~ July 24, 2018
+* Notifications: ~~August 7, 2018~~ August 14, 2018
+* Final versions due: ~~August 17, 2018~~ August 20, 2018
 * Event: Afternoon of October 21, 2018
 
 ## Paper Format and Submission
