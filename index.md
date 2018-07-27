@@ -139,3 +139,27 @@ DSIA is committed to providing an inclusive and harassment-free environment. Ple
 * [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/), UW.
 * [Danyel Fisher](https://www.microsoft.com/en-us/research/people/danyelf/), Honeycomb (previously Microsoft Research).
 * [Aditya Parameswaran](http://data-people.cs.illinois.edu/), UIUC.
+
+## Program Committee
+* Carsten Binning, TU Darmstadt.
+* Tiziana Catarci, Sapienza Universit di Roma.
+* Remco Chang, Tufts University.
+* Rick	Cole, Tableau Software.
+* Çağatay Demiralp,	Stanford University.
+* Iddo	Drori,	NYU and Columbia University.
+* Michael Gleicher,	University of Wisconsin, Madison.
+* Dana	Groff,	MongoDB.
+* Jeffrey Heer,	University of Washington.
+* Heike Hofmann, Iowa State University.
+* Jessica Hullman, University of Washington.
+* Niranjan	Kamat,	AWS Redshift.
+* Alfons	Kemper, TU Munich.
+* Oliver	Kennedy, University at Buffalo.
+* Zhicheng	Liu, Adobe Research.
+* Carlos	Scheidegger, University of Arizona.
+* James Terwilliger, Microsoft Research.
+* Eugene	Wu, Columbia University.
+* Yifan Wu, University of California, Berkeley.
+
+
+
