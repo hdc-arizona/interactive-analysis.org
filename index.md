@@ -127,10 +127,10 @@ DSIA is committed to providing an inclusive and harassment-free environment. Ple
 
 ## Organizers
 
-* [Dominik Moritz](https://homes.cs.washington.edu/~domoritz/), Chair, University of Washington.
-* [Joseph Cottam](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9106), Chair, Pacific Northwest National Laboratory.
-* [Leilani Battle](http://cs.umd.edu/~leilani/), Chair, University of Washington/ University of Maryland.
-* [Marianne Procopio](https://www.eecs.tufts.edu/~procopio/), Chair, Tufts University.
+* [Dominik Moritz](https://homes.cs.washington.edu/~domoritz/), University of Washington.
+* [Joseph Cottam](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9106), Pacific Northwest National Laboratory.
+* [Leilani Battle](http://cs.umd.edu/~leilani/), University of Washington/ University of Maryland.
+* [Marianne Procopio](https://www.eecs.tufts.edu/~procopio/), Tufts University.
 
 ## Steering Committee
 
