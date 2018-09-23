@@ -153,9 +153,9 @@ DSIA is committed to providing an inclusive and harassment-free environment. Ple
 
 * [Remco Chang](http://www.cs.tufts.edu/~remco/), Tufts.
 * [Carlos Scheidegger](https://cscheid.net/), University of Arizona.
-* [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/), UW.
+* [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/), University of Washington.
 * [Danyel Fisher](https://www.microsoft.com/en-us/research/people/danyelf/), Honeycomb (previously Microsoft Research).
-* [Aditya Parameswaran](http://data-people.cs.illinois.edu/), UIUC.
+* [Aditya Parameswaran](http://data-people.cs.illinois.edu/), University of Illinois Urbana-Champaign (UIUC).
 
 ## Program Committee
 * Carsten Binning, TU Darmstadt.
