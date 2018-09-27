@@ -19,7 +19,7 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
   * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi. *Exploratory Visualizations of Rules for Validation of Expert Decisions*
 * 3:05-3:15: Break
 * 3:15-4:00: Invited Talks (15 minutes per talk)
-  * Trip Report: Dagstuhl Seminar on Progressive Analytics
+  * Danyel Fisher, Jean-Daniel: *Trip Report: Dagstuhl Seminar on Progressive Analytics*
   * Leilani Battle: *Evaluating Visual Data Analysis Systems: A Discussion Report*
   * Sebastian Breß, Volker Markl: *A Perspective on Data Cisualization from the Database Community*
 * 4:00-5:30: Focus groups
