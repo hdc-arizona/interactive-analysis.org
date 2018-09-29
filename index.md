@@ -15,20 +15,20 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 * 2:00-2:05: Opening Statement
 * 2:05-2:45: [Keynote](#keynote): Azza Abouzied
 * 2:45-3:05: Papers session (10min per talk)
-  * Rita Sevastjanova, Mennatallah El-Assady, Dr. Annette Hautli-Janisz, Aikaterini-Lida Kalouli, Rebecca Kehlbeck, Oliver Deussen, Daniel Keim, Miriam Butt *Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification*
-  * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi. *Exploratory Visualizations of Rules for Validation of Expert Decisions*
+  * Rita Sevastjanova, Mennatallah El-Assady, Dr. Annette Hautli-Janisz, Aikaterini-Lida Kalouli, Rebecca Kehlbeck, Oliver Deussen, Daniel Keim, Miriam Butt<br/>*Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification*
+  * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi.<br/>*Exploratory Visualizations of Rules for Validation of Expert Decisions*
 * 3:05-3:15: Break
 * 3:15-4:00: Invited Talks (15 minutes per talk)
-  * Danyel Fisher, Jean-Daniel: *Trip Report: Dagstuhl Seminar on Progressive Analytics*
-  * Leilani Battle: *Evaluating Visual Data Analysis Systems: A Discussion Report*
-  * Sebastian Breß, Volker Markl: *A Perspective on Data Cisualization from the Database Community*
+  * Danyel Fisher, Jean-Daniel Fekete:<br/>*Trip Report: Dagstuhl Seminar on Progressive Analytics*
+  * Leilani Battle:<br/>*Evaluating Visual Data Analysis Systems: A Discussion Report*
+  * Sebastian Breß, Volker Markl:<br/>*A Perspective on Data Visualization from the Database Community*
 * 4:00-5:30: Focus groups
-  1. Algebra for vis
-  2. Benchmarks
-  3. Perceptual challenges
-  4. Query engines and progressive vis
+  1. Algebra for Visualization
+  2. Benchmarking Visual Analysis Systems
+  3. Perceptual Challenges
+  4. Query Engines and Progressive Visualization
   5. *Audience choice topic*
-* 5:30-5:50: Reports from groups
+* 5:30-5:50: Reports from Groups
 * 5:50-6:00: Closing Statement
 
 {:#keynote}
