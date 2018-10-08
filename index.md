@@ -21,7 +21,7 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 * 3:15-4:00: Invited Talks (15 minutes per talk)
   * Danyel Fisher, Jean-Daniel Fekete:<br/>*Trip Report: Dagstuhl Seminar on Progressive Analytics*
   * Leilani Battle:<br/>*Evaluating Visual Data Analysis Systems: A Discussion Report*
-  * Sebastian Breß, Volker Markl:<br/>*A Perspective on Data Visualization from the Database Community*
+  * Sebastian Breß, Volker Markl:<br/>*Toward Holistic Optimization of Data-Intensive Visualisation Pipelines*
 * 4:00-5:30: Focus groups
   1. Algebra for Visualization
   2. Benchmarking Visual Analysis Systems
