@@ -17,8 +17,8 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 * 2:45-3:05: Papers session (10min per talk)
   * Rita Sevastjanova, Mennatallah El-Assady, Dr. Annette Hautli-Janisz, Aikaterini-Lida Kalouli, Rebecca Kehlbeck, Oliver Deussen, Daniel Keim, Miriam Butt<br/>*Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification*
   * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi.<br/>*Exploratory Visualizations of Rules for Validation of Expert Decisions*
-* 3:05-3:15: Break
-* 3:15-4:00: Invited Talks (15 minutes per talk)
+* 3:05-4:00: Invited Talks (15 minutes per talk)
+  * Remco Chang, Carlos Scheidegger<br/>*Connecting Visualization and Data Management Research*
   * Jean-Daniel Fekete, Michael Sedlmair:<br/>*Trip Report: Dagstuhl Seminar on Progressive Analytics*
   * Leilani Battle:<br/>*Evaluating Visual Data Analysis Systems: A Discussion Report*
   * Sebastian Breß, Volker Markl:<br/>*Toward Holistic Optimization of Data-Intensive Visualisation Pipelines*
