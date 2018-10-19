@@ -31,6 +31,9 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
   5. *Audience choice topic*
 * 5:20-5:50: Reports from Groups
 * 5:50-6:00: Closing Statement
+---
+* 6:30: Dinner at [Café-Restaurant Louis](https://maps.google.com/?cid=9651088274628932097). We will walk together from the workshop. 
+---
 
 {:#keynote}
 ## Keynote: Azza Abouzied
