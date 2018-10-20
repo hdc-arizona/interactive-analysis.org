@@ -33,6 +33,8 @@ held at [IEEE VIS 2018](http://ieeevis.org) in Berlin.
 * 5:50-6:00: Closing Statement
 * 6:30: Dinner at [Café-Restaurant Louis](https://maps.google.com/?cid=9651088274628932097). We will walk together from the workshop. 
 
+<iframe id="datawrapper-chart-FEtKX" src="//datawrapper.dwcdn.net/FEtKX/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="481"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["FEtKX"]={},window.datawrapper["FEtKX"].embedDeltas={"100":506,"200":481,"300":481,"400":481,"500":481,"700":481,"800":481,"900":481,"1000":481},window.datawrapper["FEtKX"].iframe=document.getElementById("datawrapper-chart-FEtKX"),window.datawrapper["FEtKX"].iframe.style.height=window.datawrapper["FEtKX"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["FEtKX"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("FEtKX"==b)window.datawrapper["FEtKX"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
 {:#keynote}
 ## Keynote: Azza Abouzied
 
