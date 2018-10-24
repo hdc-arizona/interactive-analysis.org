@@ -17,13 +17,13 @@ We had a fantastic workshop with over 90 attendees. You can find the overview sl
 # 2018 Program
 
 * 2:20-2:25: Opening Statement
-* 2:25-3:05: [Keynote](#keynote): Azza Abouzied [Slides](/papers/2018/Keynote-DSIA-2018-shared.pdf)
+* 2:25-3:05: [Keynote](#keynote): Azza Abouzied [Slides](/talks/2018/keynote-dsia-2018.pdf)
 * 3:05-3:25: Papers session (10min per talk)
   * Rita Sevastjanova, Mennatallah El-Assady, Dr. Annette Hautli-Janisz, Aikaterini-Lida Kalouli, Rebecca Kehlbeck, Oliver Deussen, Daniel Keim, Miriam Butt<br/>*Mixed-Initiative Active Learning for Generating Linguistic Insights in Question Classification*
-  * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi.<br/>*Exploratory Visualizations of Rules for Validation of Expert Decisions*
+  * Protiva Rahman, Jian Chen, Courtney Hebert, Preeti Pancholi, Mark Lustberg, Kurt Stevenson, Arnab Nandi.<br/>*Exploratory Visualizations of Rules for Validation of Expert Decisions* [Slides](/talks/2018/rules-dsia-2018.pdf)
 * 3:25-4:00: Invited Talks (15 minutes per talk)
   * Remco Chang, Carlos Scheidegger<br/>*Connecting Visualization and Data Management Research* [Slides](https://cscheid.net/talks/dsia-2018-dagstuhl-report.pdf)
-  * Jean-Daniel Fekete, Michael Sedlmair:<br/>*Trip Report: Dagstuhl Seminar on Progressive Analytics* [Slides](/papers/2018/progressive.pdf)
+  * Jean-Daniel Fekete, Michael Sedlmair:<br/>*Trip Report: Dagstuhl Seminar on Progressive Analytics* [Slides](/talks/2018/progressive-dsia-2018.pdf)
 * 4:00-4:20: Break
 * 4:20-4:45: Invited Talks (10 to 15 minutes per talk)
   * Leilani Battle:<br/>*Evaluating Visual Data Analysis Systems: A Discussion Report*
