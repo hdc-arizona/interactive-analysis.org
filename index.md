@@ -27,7 +27,7 @@ We had a fantastic workshop with over 90 attendees. You can find the overview sl
 * 4:00-4:20: Break
 * 4:20-4:45: Invited Talks (10 to 15 minutes per talk)
   * Leilani Battle:<br/>*Evaluating Visual Data Analysis Systems: A Discussion Report*
-  * Sebastian Breß, Volker Markl:<br/>*Toward Holistic Optimization of Data-Intensive Visualisation Pipelines*
+  * Sebastian Breß, Volker Markl:<br/>*Toward Holistic Optimization of Data-Intensive Visualisation Pipelines* [Slides](/talks/2018/algebra-dsia-2018.pdf)
 * 4:45-5:20: Focus groups
   1. Algebra for Visualization
   2. Benchmarking Visual Analysis Systems
