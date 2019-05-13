@@ -74,6 +74,23 @@ broadly construed. For example, topics of interest to the workshop include (but 
 We are interested, more generally, in the questions that arise at the
 *intersection* of these systems. 
 
+## Important Dates
+
+* Submission Deadline: July 13, 2019
+* Notifications: July 28, 2019
+* Final versions due: August 17, 2019
+* Event: October 20 or 21, 2019
+
+## Paper Format and Submission
+
+We are accepting papers in two formats:
+* Preliminary research, late-breaking results and work in progress: 4 to 6 pages excluding references in IEEE VIS paper format. Accepted papers will be given a full slot to present at the workshop and will have the option to publish in IEEE Xplore.
+* Position abstracts, research ideas and desired future work: 1 to 3 pages excluding references in IEEE VIS paper format. Accepted position papers will be given a 5-minute "lightning" talk slot at the workshop to share their ideas/concepts/concerns.
+
+## Registration 
+
+At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2019](http://ieeevis.org/).
+
 ## Code of Conduct
 
 DSIA is committed to providing an inclusive and harassment-free environment. Please see the [IEEE VIS Code of Conduct](http://ieeevis.org/year/2019/info/inclusion-and-diversity/code-of-conduct) for details.
