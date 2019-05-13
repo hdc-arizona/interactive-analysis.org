@@ -99,7 +99,7 @@ DSIA is committed to providing an inclusive and harassment-free environment. Ple
 
 * [Dominik Moritz](https://homes.cs.washington.edu/~domoritz/), University of Washington.
 * [Joseph Cottam](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9106), Pacific Northwest National Laboratory.
-* [Leilani Battle](http://cs.umd.edu/~leilani/), University of Washington/ University of Maryland.
+* [Leilani Battle](http://cs.umd.edu/~leilani/), University of Maryland.
 
 ## Steering Committee
 
