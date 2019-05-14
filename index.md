@@ -8,7 +8,7 @@ Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held a
 [IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome), the [second edition of DSIA](/year/2017/) was held at
 [IEEE VIS 2017](http://ieeevis.org/year/2017/welcome), and the [third edition of DSIA](/year/2018/) was held at
 [IEEE VIS 2018](http://ieeevis.org/year/2018/welcome). 
-We are thrilled to announce a third edition of the workshop, to be
+We are thrilled to announce the fourth edition of the workshop, to be
 held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 
 ## The DSIA Vision
