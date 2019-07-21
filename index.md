@@ -87,6 +87,13 @@ We are accepting papers in two formats:
 * Preliminary research, late-breaking results and work in progress: 4 to 6 pages excluding references in IEEE VIS paper format. Accepted papers will be given a full slot to present at the workshop and will have the option to publish in IEEE Xplore.
 * Position abstracts, research ideas and desired future work: 1 to 3 pages excluding references in IEEE VIS paper format. Accepted position papers will be given a 5-minute "lightning" talk slot at the workshop to share their ideas/concepts/concerns.
 
+Papers should be submitted through the
+[Precision Conference System](https://new.precisionconference.com/)
+(under "New Submissions" and "VIS Workshops 2019").
+Please contact the workshop organizers at
+[organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
+for any questions regarding the submission process or the workshop itself.
+
 ## Registration 
 
 At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2019](http://ieeevis.org/).
