@@ -77,7 +77,7 @@ We are interested, more generally, in the questions that arise at the
 ## Important Dates
 
 * Submission Deadline: ~~July 13, 2019~~ July 20, 2019
-* Notifications: July 30, 2019
+* Notifications: ~~July 30, 2019~~ August 1, 2019
 * Final versions due: August 17, 2019
 * Event: October 20 or 21, 2019
 
