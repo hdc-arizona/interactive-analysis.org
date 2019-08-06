@@ -18,6 +18,8 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 
 We are very excited to announce that Magdalena Balazinska from UW will be the keynote speaker for the workshop.
 
+**Title** The LightDB Video Database Management System
+
 **Abstract** Video data management has recently re-emerged as an
 active research area due to advances in machine learning
 and graphics hardware, as well as the emergence of
