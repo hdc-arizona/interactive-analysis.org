@@ -16,9 +16,9 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 
 <img src="/img/magda.jpg" style="float: right; padding:10px; width: 300px">
 
-### Abstract
+We are very excited to announce that Magdalena Balazinska from UW will be the keynote speaker for the workshop.
 
-Video data management has recently re-emerged as an
+**Abstract** Video data management has recently re-emerged as an
 active research area due to advances in machine learning
 and graphics hardware, as well as the emergence of
 applications such as adaptive streaming, object
@@ -32,9 +32,7 @@ we are building at the University of Washington for the storage,
 retrieval, and analysis of video databases, including overlapping
 videos and 360-degree videos.
 
-### Bio
-
-[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and the Director of the University of Washington data science institute called eScience. She is also the Associate Vice Provost for Data Science and the director of the Advanced Data Science PhD Option. Magdalena's research interests are in the field of database management systems. Her current research focuses on data management for data science, big data systems, cloud computing, and image and video analytics (including data management for VR/AR). Magdalena holds a Ph.D. from the Massachusetts Institute of Technology (2006). She is a Microsoft Research New Faculty Fellow (2007), received the inaugural VLDB Women in Database Research Award (2016), an ACM SIGMOD Test-of-Time Award (2017), an NSF CAREER Award (2009), a 10-year most influential paper award (2010), the UW CSE ACM Teaching Award (2013), the Jean Loup Baer Career Development Professorship in Computer Science and Engineering (2014-2017), two Google Research Awards (2011 and 2018), an HP Labs Research Innovation Award (2009 and 2010), a Rogel Faculty Support Award (2006), a Microsoft Research Graduate Fellowship (2003-2005), and multiple best-paper (and "best of") awards.
+**Bio** [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and the Director of the University of Washington data science institute called eScience. She is also the Associate Vice Provost for Data Science and the director of the Advanced Data Science PhD Option. Magdalena's research interests are in the field of database management systems. Her current research focuses on data management for data science, big data systems, cloud computing, and image and video analytics (including data management for VR/AR). Magdalena holds a Ph.D. from the Massachusetts Institute of Technology (2006). She is a Microsoft Research New Faculty Fellow (2007), received the inaugural VLDB Women in Database Research Award (2016), an ACM SIGMOD Test-of-Time Award (2017), an NSF CAREER Award (2009), a 10-year most influential paper award (2010), the UW CSE ACM Teaching Award (2013), the Jean Loup Baer Career Development Professorship in Computer Science and Engineering (2014-2017), two Google Research Awards (2011 and 2018), an HP Labs Research Innovation Award (2009 and 2010), a Rogel Faculty Support Award (2006), a Microsoft Research Graduate Fellowship (2003-2005), and multiple best-paper (and "best of") awards.
 
 ## The DSIA Vision
 
