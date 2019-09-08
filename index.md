@@ -7,16 +7,33 @@ This is the website for the Workshop on Data Systems for
 Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held at
 [IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome), the [second edition of DSIA](/year/2017/) was held at
 [IEEE VIS 2017](http://ieeevis.org/year/2017/welcome), and the [third edition of DSIA](/year/2018/) was held at
-[IEEE VIS 2018](http://ieeevis.org/year/2018/welcome). 
+[IEEE VIS 2018](http://ieeevis.org/year/2018/welcome).
 We are thrilled to announce the fourth edition of the workshop, to be
 held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
+
+# 2019 Program
+
+* 9:00-9:05: Opening Statement
+* 9:05-9:50: [Keynote](#keynote): Magdalena Balazinska
+* 10:00-10:30: Papers session (10min per talk)
+  * Practical Use Cases for Progressive Visual Analytics
+  * PivotE: Entity-Oriented Exploratory Search on Knowledge Graphs
+  * Zoomable Visualizations of Big Skewed Spatial Data
+* 10:30-11:00: Break
+* 11:00-12:15: Panel
+  * Magdalena Balazinska
+  * TBA
+  * TBA
+  * TBA
+* 12:15-12:20: Closing Statement
+* 12:20: Lunch at TBA. We will walk together from the workshop. 
 
 {:#keynote}
 ## Keynote: Magdalena Balazinska
 
 <img src="/img/magda.jpg" style="float: right; padding:10px; width: 300px">
 
-We are very excited to announce that Magdalena Balazinska from UW will be the keynote speaker for the workshop.
+We are very excited to announce that Magdalena Balazinska from the University of Washington will be the keynote speaker for the workshop.
 
 **Title** The LightDB Video Database Management System
 
@@ -69,7 +86,7 @@ modeling likely interactions.
 This workshop seeks to jump start cross-pollination between these
 fields. The program will be split between invited talks from
 researchers in these communities, and speculative, ongoing work that
-straddles the areas. 
+straddles the areas.
 
 The goal of DSIA is to foster innovative research at the
 **intersection of databases, machine learning, and interactive
@@ -97,14 +114,14 @@ broadly construed. For example, topics of interest to the workshop include (but 
 * front-end architectures that exploit these novel back-end capabilities
 
 We are interested, more generally, in the questions that arise at the
-*intersection* of these systems. 
+*intersection* of these systems.
 
 ## Important Dates
 
 * Submission Deadline: ~~July 13, 2019~~ July 20, 2019
 * Notifications: ~~July 30, 2019~~ August 1, 2019
 * Final versions due: August 17, 2019
-* Event: October 20 or 21, 2019
+* Event: October 21, 2019
 
 ## Paper Format and Submission
 
@@ -119,7 +136,7 @@ Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
 for any questions regarding the submission process or the workshop itself.
 
-## Registration 
+## Registration
 
 At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2019](http://ieeevis.org/).
 

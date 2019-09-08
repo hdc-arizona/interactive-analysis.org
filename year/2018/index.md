@@ -6,7 +6,7 @@ title: "DSIA: Data Systems for Interactive Analysis"
 This is the website for the Workshop on Data Systems for
 Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held at
 [IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome) and the [second edition of DSIA](/year/2017/) was held at
-[IEEE VIS 2017](http://ieeevis.org/year/2017/welcome). 
+[IEEE VIS 2017](http://ieeevis.org/year/2017/welcome).
 We are thrilled to announce a third edition of the workshop, to be
 held at [IEEE VIS 2018](http://ieeevis.org/year/2018/welcome) in Berlin.
 
@@ -36,7 +36,7 @@ We had a fantastic workshop with over 90 attendees. You can find the overview sl
   5. *Audience choice topic*
 * 5:20-5:50: Reports from Groups
 * 5:50-6:00: Closing Statement
-* 6:30: Dinner at [Café-Restaurant Louis](https://maps.google.com/?cid=9651088274628932097). We will walk together from the workshop. 
+* 6:30: Dinner at [Café-Restaurant Louis](https://maps.google.com/?cid=9651088274628932097). We will walk together from the workshop.
 
 <iframe id="datawrapper-chart-FEtKX" src="//datawrapper.dwcdn.net/FEtKX/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="481"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["FEtKX"]={},window.datawrapper["FEtKX"].embedDeltas={"100":506,"200":481,"300":481,"400":481,"500":481,"700":481,"800":481,"900":481,"1000":481},window.datawrapper["FEtKX"].iframe=document.getElementById("datawrapper-chart-FEtKX"),window.datawrapper["FEtKX"].iframe.style.height=window.datawrapper["FEtKX"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["FEtKX"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("FEtKX"==b)window.datawrapper["FEtKX"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
 
@@ -49,7 +49,7 @@ We are very excited to announce that [Azza Abouzied](http://azza.azurewebsites.n
 
 **Abstract:** The research and development of data analytics tools has often occurred independently in two worlds: the data management world and the HCI one. The database community is partly to blame for this phenomenon. The core database design principle of providing minimilastic APIs such as SQL that abstract away storage and processing details was perhaps taken too far. With little intervention allowed into the mechanics of handling or querying data, human interfaces for data tasks were in turn developed independently. These interfaces focused on how best to support users, usually within a specific domain, under the constraints of the underlying data management system. As data analysis becomes more mainstream, this clear division is starting to blur. For example, recent visualization and database research works are starting to examine ways that both worlds can better integrate to improve performance as well as the handling of uncertain data. It is time to push this integration even further and to design complete end-to-end systems.
 
-In this keynote, I examine this integration through the lens of example-driven interfaces (EDIs) for data tasks — a class of mixed-initiative user interfaces that enable users to specify tasks such as data extraction, cleaning, transformation, querying or analysis, in the casual and familiar language of examples. Through tools that we have built and evaluated for data extraction (SEER and Texture), querying (DataPlay and Qetch), and generation (Synner), I demonstrate that designing end-to-end systems not only leads to exciting opportunities in HCI research but also leads us to question and change some fundamental principles of data management systems. 
+In this keynote, I examine this integration through the lens of example-driven interfaces (EDIs) for data tasks — a class of mixed-initiative user interfaces that enable users to specify tasks such as data extraction, cleaning, transformation, querying or analysis, in the casual and familiar language of examples. Through tools that we have built and evaluated for data extraction (SEER and Texture), querying (DataPlay and Qetch), and generation (Synner), I demonstrate that designing end-to-end systems not only leads to exciting opportunities in HCI research but also leads us to question and change some fundamental principles of data management systems.
 
 **Bio:** Azza Abouzied is an Assistant Professor of Computer Science at New York University, Abu Dhabi. Azza’s research work focuses on designing novel and intuitive data analytics tools and on supporting complex analytics natively within databases, such as specifying and solving objective optimization problems. Her work combines techniques from various fields such as UI-design, active learning and databases. She received her doctoral degree from Yale in 2013 and BSc (CS) from Dalhousie. She spent a year as a visiting scholar at UC Berkeley. She is the recipient of an NSERC Canada Graduate Scholarships-Doctoral Fellowship, and multiple research paper awards including a SIGMOD Research Highlight Award, a best of VLDB citation and a best CHI paper award. She is also one of the co-founders of Hadapt – a Big Data analytics platform.
 
@@ -88,7 +88,7 @@ modeling likely interactions.
 This workshop seeks to jump start cross-pollination between these
 fields. The program will be split between invited talks from
 researchers in these communities, and speculative, ongoing work that
-straddles the areas. 
+straddles the areas.
 
 The goal of DSIA is to foster innovative research at the
 **intersection of databases, machine learning, and interactive
@@ -116,7 +116,7 @@ broadly construed. For example, topics of interest to the workshop include (but 
 * front-end architectures that exploit these novel back-end capabilities
 
 We are interested, more generally, in the questions that arise at the
-*intersection* of these systems. 
+*intersection* of these systems.
 
 ## Important Dates
 
@@ -128,7 +128,7 @@ We are interested, more generally, in the questions that arise at the
 ## Paper Format and Submission
 
 Submissions should follow IEEE TVCG guidelines, which can be found
-[here](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
+[here](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 Submissions should not exceed 4 to 6 pages, excluding references.
 
 Papers should be submitted through the
@@ -143,7 +143,7 @@ choose to include their papers in the IEEE archive. In addition to
 their presentation, authors have the option to give a demo of their
 systems or tools.
 
-## Registration 
+## Registration
 
 At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2018](http://ieeevis.org/).
 
