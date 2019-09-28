@@ -21,10 +21,10 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
   * Zoomable Visualizations of Big Skewed Spatial Data
 * 10:30-11:00: Break
 * 11:00-12:15: Panel
-  * Magdalena Balazinska
-  * TBA
-  * TBA
-  * TBA
+  * Magda Balazinska, UW
+  * Danyel Fisher, Honeycomb
+  * Leo Liu, Adobe
+  * Carlos Scheidegger, U Arizona
 * 12:15-12:20: Closing Statement
 * 12:20: Lunch at TBA. We will walk together from the workshop. 
 
