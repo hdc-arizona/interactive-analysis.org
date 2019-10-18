@@ -16,9 +16,9 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 * 9:00-9:05: Opening Statement
 * 9:05-9:50: [Keynote](#keynote): Magdalena Balazinska
 * 10:00-10:30: Papers session (10min per talk)
-  * Practical Use Cases for Progressive Visual Analytics
-  * PivotE: Entity-Oriented Exploratory Search on Knowledge Graphs
-  * Zoomable Visualizations of Big Skewed Spatial Data
+  * [Practical Use Cases for Progressive Visual Analytics](/papers/2019/Fekete-Progressive-DSIA2019.pdf)
+  * [PivotE: Entity-Oriented Exploratory Search on Knowledge Graphs](/papers/2019/Xueran-PivotE-DSIA2019.pdf)
+  * [Zoomable Visualizations of Big Skewed Spatial Data](/papers/2019/Tao-Zoomable-DSIA2019.pdf)
 * 10:30-11:00: Break
 * 11:00-12:15: Panel
   * Magda Balazinska, UW
