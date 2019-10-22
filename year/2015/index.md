@@ -186,10 +186,10 @@ should contain only references.
 
 ## Submission
 
-Papers should be submitted via email to:
+<!-- Papers should be submitted via email to:
 [workshop@interactive-analysis.org](mailto:workshop@interactive-analysis.org). Please contact the workshop
 organizers at [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org) for any
-questions regarding the submission process or the workshop itself.
+questions regarding the submission process or the workshop itself. -->
 
 ## Registration 
 

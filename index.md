@@ -132,9 +132,9 @@ We are accepting papers in two formats:
 Papers should be submitted through the
 [Precision Conference System](https://new.precisionconference.com/)
 (under "New Submissions" and "VIS Workshops 2019").
-Please contact the workshop organizers at
+<!-- Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
-for any questions regarding the submission process or the workshop itself.
+for any questions regarding the submission process or the workshop itself. -->
 
 ## Registration
 

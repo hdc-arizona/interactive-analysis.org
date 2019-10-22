@@ -134,9 +134,7 @@ Submissions should not exceed 4 to 6 pages, excluding references.
 Papers should be submitted through the
 [Precision Conference System](https://new.precisionconference.com/)
 (under "New Submissions" and "VIS Workshops 2018").
-Please contact the workshop organizers at
-[organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
-for any questions regarding the submission process or the workshop itself.
+<!-- Please contact the workshop organizers at [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org) for any questions regarding the submission process or the workshop itself. -->
 
 Accepted papers will be presented at the workshop and authors can
 choose to include their papers in the IEEE archive. In addition to

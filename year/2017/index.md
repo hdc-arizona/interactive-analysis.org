@@ -142,9 +142,7 @@ should contain only references.
 Papers should be submitted through the
 [Precision Conference System](http://precisionconference.com/~vgtc)
 (under "New Submissions" and "VIS Workshops 2017").
-Please contact the workshop organizers at
-[organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
-for any questions regarding the submission process or the workshop itself.
+<!-- Please contact the workshop organizers at [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org) for any questions regarding the submission process or the workshop itself. -->
 
 ## Registration 
 
