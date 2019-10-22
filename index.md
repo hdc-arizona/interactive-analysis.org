@@ -16,14 +16,14 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 * 9:00-9:05: Opening Statement
 * 9:05-9:50: [Keynote](#keynote): Magdalena Balazinska
 * 10:00-10:30: Papers session (10min per talk)
-  * [Practical Use Cases for Progressive Visual Analytics](/papers/2019/Fekete-Progressive-DSIA2019.pdf)
+  * [Practical Use Cases for Progressive Visual Analytics](/papers/2019/Fekete-Progressive-DSIA2019.pdf) and [Slides](/talks/2019/Practical Use Cases for Progressive Visual Analytics.pdf)
   * [PivotE: Entity-Oriented Exploratory Search on Knowledge Graphs](/papers/2019/Xueran-PivotE-DSIA2019.pdf)
   * [Zoomable Visualizations of Big Skewed Spatial Data](/papers/2019/Tao-Zoomable-DSIA2019.pdf)
 * 10:30-11:00: Break
 * 11:00-12:15: Panel
   * Magda Balazinska, UW
-  * Danyel Fisher, Honeycomb
-  * Leo Liu, Adobe
+  * Danyel Fisher, Honeycomb [Slides](talks/2019/danyel.pdf)
+  * Leo Liu, Adobe [Slides](talks/2019/leo.pdf)
   * Carlos Scheidegger, U Arizona
 * 12:15-12:20: Closing Statement
 * 12:20: Lunch at TBA. We will walk together from the workshop. 
