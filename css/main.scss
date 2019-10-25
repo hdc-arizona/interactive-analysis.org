@@ -4,7 +4,6 @@
 @charset "utf-8";
 
 
-
 // Our variables
 $base-font-family: Helvetica Neue, Arial, sans-serif;
 $base-font-size:   14px;
@@ -105,5 +104,16 @@ h1 {
         &:hover, &:visited {
             color: #D15F38;
         }
+    }
+}
+
+nav {
+    margin-top: 0.5em;
+    margin-bottom: 2.5em;
+
+    a {
+        margin-right: 1em;
+        text-decoration: none;
+        font-size: 1.2em;
     }
 }

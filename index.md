@@ -1,57 +1,24 @@
 ---
-layout: main-2019
+layout: main
 title: "DSIA: Data Systems for Interactive Analysis"
 ---
 
 This is the website for the Workshop on Data Systems for
 Interactive Analysis (DSIA). The [first edition of DSIA](/year/2015/) was held at
 [IEEE VIS 2015](http://ieeevis.org/year/2015/info/vis-welcome/welcome), the [second edition of DSIA](/year/2017/) was held at
-[IEEE VIS 2017](http://ieeevis.org/year/2017/welcome), and the [third edition of DSIA](/year/2018/) was held at
-[IEEE VIS 2018](http://ieeevis.org/year/2018/welcome).
-We are thrilled to announce the fourth edition of the workshop, to be
+[IEEE VIS 2017](http://ieeevis.org/year/2017/welcome), the [third edition of DSIA](/year/2018/) was held at
+[IEEE VIS 2018](http://ieeevis.org/year/2018/welcome), and the fourth edition of the workshop was
 held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 
-# 2019 Program
-
-* 9:00-9:05: Opening Statement
-* 9:05-9:50: [Keynote](#keynote): Magdalena Balazinska
-* 10:00-10:30: Papers session (10min per talk)
-  * [Practical Use Cases for Progressive Visual Analytics](/papers/2019/Fekete-Progressive-DSIA2019.pdf) and [Slides](/talks/2019/Practical Use Cases for Progressive Visual Analytics.pdf)
-  * [PivotE: Entity-Oriented Exploratory Search on Knowledge Graphs](/papers/2019/Xueran-PivotE-DSIA2019.pdf)
-  * [Zoomable Visualizations of Big Skewed Spatial Data](/papers/2019/Tao-Zoomable-DSIA2019.pdf)
-* 10:30-11:00: Break
-* 11:00-12:15: Panel
-  * Magda Balazinska, UW
-  * Danyel Fisher, Honeycomb [Slides](talks/2019/danyel.pdf)
-  * Leo Liu, Adobe [Slides](talks/2019/leo.pdf)
-  * Carlos Scheidegger, U Arizona
-* 12:15-12:20: Closing Statement
-* 12:20: Lunch at TBA. We will walk together from the workshop. 
-
-{:#keynote}
-## Keynote: Magdalena Balazinska
-
-<img src="/img/magda.jpg" style="float: right; padding:10px; width: 300px">
-
-We are very excited to announce that Magdalena Balazinska from the University of Washington will be the keynote speaker for the workshop.
-
-**Title** The LightDB Video Database Management System
-
-**Abstract** Video data management has recently re-emerged as an
-active research area due to advances in machine learning
-and graphics hardware, as well as the emergence of
-applications such as adaptive streaming, object
-detection, and virtual reality.
-In this talk, we start with a review of the key requirements
-of modern video data management and analytics applications.
-We then present Visual Road, a new benchmark that we developed to
-assess video database systems on the needs of those modern applications.
-Finally, we dive into the details of LightDB, a new system that
-we are building at the University of Washington for the storage,
-retrieval, and analysis of video databases, including overlapping
-videos and 360-degree videos.
-
-**Bio** [Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda) is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington and the Director of the University of Washington data science institute called eScience. She is also the Associate Vice Provost for Data Science and the director of the Advanced Data Science PhD Option. Magdalena's research interests are in the field of database management systems. Her current research focuses on data management for data science, big data systems, cloud computing, and image and video analytics (including data management for VR/AR). Magdalena holds a Ph.D. from the Massachusetts Institute of Technology (2006). She is a Microsoft Research New Faculty Fellow (2007), received the inaugural VLDB Women in Database Research Award (2016), an ACM SIGMOD Test-of-Time Award (2017), an NSF CAREER Award (2009), a 10-year most influential paper award (2010), the UW CSE ACM Teaching Award (2013), the Jean Loup Baer Career Development Professorship in Computer Science and Engineering (2014-2017), two Google Research Awards (2011 and 2018), an HP Labs Research Innovation Award (2009 and 2010), a Rogel Faculty Support Award (2006), a Microsoft Research Graduate Fellowship (2003-2005), and multiple best-paper (and "best of") awards.
+<a href="https://twitter.com/dsiaworkshop" class="twitter">
+    <span class="icon  icon--twitter">
+        <svg viewBox="0 0 16 16">
+        <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+        c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+        </svg>
+    </span>
+    <span class="username">dsiaworkshop</span>
+</a>
 
 ## The DSIA Vision
 
@@ -115,30 +82,6 @@ broadly construed. For example, topics of interest to the workshop include (but 
 
 We are interested, more generally, in the questions that arise at the
 *intersection* of these systems.
-
-## Important Dates
-
-* Submission Deadline: ~~July 13, 2019~~ July 20, 2019
-* Notifications: ~~July 30, 2019~~ August 1, 2019
-* Final versions due: August 17, 2019
-* Event: October 21, 2019
-
-## Paper Format and Submission
-
-We are accepting papers in two formats:
-* Preliminary research, late-breaking results and work in progress: 4 to 6 pages excluding references in IEEE VIS paper format. Accepted papers will be given a full slot to present at the workshop and will have the option to publish in IEEE Xplore.
-* Position abstracts, research ideas and desired future work: 1 to 3 pages excluding references in IEEE VIS paper format. Accepted position papers will be given a 5-minute "lightning" talk slot at the workshop to share their ideas/concepts/concerns.
-
-Papers should be submitted through the
-[Precision Conference System](https://new.precisionconference.com/)
-(under "New Submissions" and "VIS Workshops 2019").
-<!-- Please contact the workshop organizers at
-[organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
-for any questions regarding the submission process or the workshop itself. -->
-
-## Registration
-
-At least one author from an accepted paper will be required to attend the workshop. Registration for the workshop can be done via [VIS 2019](http://ieeevis.org/).
 
 ## Code of Conduct
 

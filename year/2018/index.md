@@ -1,6 +1,6 @@
 ---
 layout: main-2018
-title: "DSIA: Data Systems for Interactive Analysis"
+title: "3rd Workshop on Data Systems for Interactive Analysis"
 ---
 
 This is the website for the Workshop on Data Systems for

@@ -1,6 +1,6 @@
 ---
 layout: main-2015
-title: The 1st Workshop on Data Systems for Interactive Analysis
+title: 1st Workshop on Data Systems for Interactive Analysis
 ---
 
 This is the website for the First Workshop on Data Systems for

@@ -1,6 +1,6 @@
 ---
 layout: main-2017
-title: "The 2nd Workshop on Data Systems for Interactive Analysis"
+title: "2nd Workshop on Data Systems for Interactive Analysis"
 ---
 
 This is the website for the Workshop on Data Systems for
