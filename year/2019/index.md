@@ -22,8 +22,8 @@ held at [IEEE VIS 2019](http://ieeevis.org) in Vancouver.
 * 10:30-11:00: Break
 * 11:00-12:15: Panel
   * Magda Balazinska, UW
-  * Danyel Fisher, Honeycomb [Slides](talks/2019/danyel.pdf)
-  * Leo Liu, Adobe [Slides](talks/2019/leo.pdf)
+  * Danyel Fisher, Honeycomb [Slides](/talks/2019/danyel.pdf)
+  * Leo Liu, Adobe [Slides](/talks/2019/leo.pdf)
   * Carlos Scheidegger, U Arizona
 * 12:15-12:20: Closing Statement
 * 12:20: Lunch at TBA. We will walk together from the workshop. 
